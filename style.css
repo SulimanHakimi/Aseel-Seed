@@ -20,10 +20,10 @@ nav {
 nav ul li {
   display: inline-block;
   align-items: center;
-  padding-right: 30px;
+  padding-right: 20px;
 }
 nav ul li a {
-  font-size: 20px;
+  font-size: 18px;
   color: black;
   font-weight: 200;
 }
@@ -51,8 +51,8 @@ nav ul li a {
 .list-nav {
   height: 12vh;
   width: 60%;
-  display: inline-flex;
-  justify-content: center;
+  display: flex;
+  justify-content: space-between;
   align-items: center;
 }
 .sections-list {
