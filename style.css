@@ -81,8 +81,7 @@ iframe {
   height: 85vh;
   width: 80%;
   border-radius: 20px;
-  margin-top: 50px;
-  margin-bottom: 80px;
+  margin: 50px 0px;
 }
 .seed-lastPharaghraph {
   margin-bottom: 70px;
