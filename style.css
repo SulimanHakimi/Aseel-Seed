@@ -125,9 +125,11 @@ iframe {
   font-size: 20px;
   text-align: left;
   height: 30%;
+  background-color: blue;
 }
 .down-link {
   width: 90%;
+  background-color: yellow;
   height: 10%;
 }
 .down-link a{
@@ -140,7 +142,9 @@ iframe {
 
 }
 .s-para{
+  
   color: rgb(63,131,248);
+  background-color: aqua;
 }
 .s-para span{
   font-weight: bold;
